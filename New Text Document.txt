@@ -1,0 +1,5 @@
+1) How to Insert an Image in HTML? 
+ 
+
+1-ans:- For Insert an Image in HTML we are using <img> element with src attribute .
+<img> is void element.

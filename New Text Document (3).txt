@@ -1,0 +1,11 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<title>insert image as a link</title>
+</head>
+<body>
+<a href="www.example.com"/ img src="https://www.royalchallengers.com/PRRCB01/public/styles/1061x767_landscape/public/2020-07/Sachin%20Tendulkar.jpg?h=920929c4&itok=Is5LHMDi">title = "This is official website link>This is official website link </a>
+<img src="https://www.pixelstalk.net/wp-content/uploads/2016/08/Best-Nature-Full-HD-Images-For-Desktop.jpg" />
+<p> I am Paragraph </p>
+</head>
+</body>
